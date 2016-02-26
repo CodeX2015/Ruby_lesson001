@@ -1,1 +1,1 @@
-puts "Hello, world" #first
+5.times { print "Odelay!\n"}
